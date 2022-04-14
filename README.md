@@ -1,2 +1,1 @@
-# TO-DO
-📝 A TO-DO app
+# TODO
