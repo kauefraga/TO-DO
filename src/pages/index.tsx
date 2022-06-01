@@ -47,6 +47,7 @@ function Home() {
   }
 
   useEffect(() => {
+    console.log('Repo: https://github.com/kauefraga/to-do');
     const tasksInLocalStorage: any = localStorage.getItem('tasks');
 
     if (tasksInLocalStorage) {
